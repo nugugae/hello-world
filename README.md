@@ -1,4 +1,3 @@
 # hello-world
 test
-Finish README
-difference
+finish readme
